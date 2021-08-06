@@ -1,0 +1,5 @@
+print('Hello world')
+print("Python is interesting")
+print('I am Eugene Davis-Paulino')
+print("I am learning Python today")
+print('I am learning everything now')
